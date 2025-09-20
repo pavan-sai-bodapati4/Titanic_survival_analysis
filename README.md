@@ -3,10 +3,10 @@
 ## Dataset Used  
 - <a href="https://github.com/pavan-sai-bodapati4/Titanic_survival_analysis/blob/main/Titanic%20Dataset%20and%20Analysis.xlsx">Titanic Dataset</a>  
 # 📊 Tools & Techniques Used  
-Power BI (Dashboard creation & DAX)  
-Power Query (Data cleaning & transformation)  
-DAX Measures (Age buckets, survival rates)  
-Data Visualization (Cards, bar charts, pie charts, slicers)  
+* Power BI (Dashboard creation & DAX)  
+* Power Query (Data cleaning & transformation)  
+* DAX Measures (Age buckets, survival rates)  
+* Data Visualization (Cards, bar charts, pie charts, slicers)  
 ## Dashboard Interaction  
 - <a href="https://github.com/pavan-sai-bodapati4/Titanic_survival_analysis/blob/main/Titanic%20Dashboard.png">Titanic Dashboard</a>  
 # 🔍 Key Insights  
